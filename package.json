@@ -1,0 +1,14 @@
+{
+  "name": "719754b69969c7ee",
+  "main": "719754b69969c7ee@260.js",
+  "version": "260.0.0",
+  "homepage": "https://observablehq.com/d/719754b69969c7ee",
+  "author": {
+    "name": "Ravi's Workspace",
+    "url": "https://observablehq.com/@ravi2-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
